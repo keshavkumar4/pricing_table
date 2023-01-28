@@ -135,10 +135,8 @@ html {
 
 body {
 	background-color: #60a9ff;
-	height: 100vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	/* height: 100vh; */
+	
 }
 
 
@@ -152,6 +150,7 @@ body {
 	flex-direction: column;
 	text-align: center;
 	text-transform: uppercase;
+	
 }
 .pricing-plan{
 	border-bottom: 4px solid #e1f1ff;
@@ -221,6 +220,8 @@ border-bottom: none;
 	.panel{
 		flex-direction: row;
 		width: 60%;
+		margin: 80px auto 0px;
+		
 		
 	}
 	.pricing-plan{
