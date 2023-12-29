@@ -2,7 +2,8 @@
 
 Welcome to Price Tier - A stylish and responsive pricing table for your business.
 
-![Price Tier Preview](![image](https://github.com/sarjeetsingh-tech/pricing_table/assets/104495979/0556bb6a-fafa-4112-99f9-0dba91db1e11))
+![image](https://github.com/sarjeetsingh-tech/pricing_table/assets/104495979/aca84c7d-66a0-4e27-8924-7595d5f754c8)
+
 
 ## Features
 
